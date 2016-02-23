@@ -1,0 +1,26 @@
+{
+  "name": "AngularTagInput",
+  "homepage": "https://github.com/erfangc/AngularTagInput",
+  "authors": [
+    "erfangc <erfangc@gmail.com>"
+  ],
+  "description": "This is a fork of ngTagInput with some slight modifications",
+  "main": "ng-tags-input.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "9de5a456e8",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "9de5a456e8f043bbd67255819edbe01daf9c9a6d"
+  },
+  "_source": "https://github.com/erfangc/AngularTagInput.git",
+  "_target": "master",
+  "_originalSource": "AngularTagInput"
+}
